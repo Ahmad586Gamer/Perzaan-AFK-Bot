@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "life0synap.mcsh.io",
-    "port": 25565,
+    "ip": "BatteryMC.aternos.me",
+    "port": 56198,
     "version": "1.21.1"
   },
   "position": {
